@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Test1</string>
+    <string name="open_btn">Welcome to PizzaYosef</string>
+    <string name="Nxt_Page">To Order Press Here</string>
+    <string name="menu_btn">Menu</string>
+    <string name="pizza_op">Pizza Size</string>
+    <string name="drink_op">Drink Option</string>
+    <string name="btn_p">Pineapple</string>
+    <string name="btn_big">"Big "</string>
+    <string name="btn_fam">"Family "</string>
+    <string name="btn_per">"Personal "</string>
+    <string name="btn_inv">Your Order Is</string>
+    <string name="btn_olive">Olive</string>
+    <string name="btn_onion">Onion</string>
+    <string name="btn_mush">Mushrooms</string>
+    <string name="rat_btn">Rate Us</string>
+    <string name="btn_top">Toppings</string>
+    <string name="prs_btn">Press  under to see video</string>
+    <string name="nextB">Next page</string>
+</resources>

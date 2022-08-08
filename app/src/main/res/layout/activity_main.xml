@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/open_btn"
+    android:textStyle="italic"
+    android:textColor="@color/black"
+    android:background="#FFC107"
+    android:textSize="30sp"
+    android:layout_margin="10dp" />
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="150dp"
+        android:layout_margin="10dp"
+        android:src="@drawable/yosef" />
+
+    <ImageView
+    android:layout_width="200dp"
+    android:layout_height="180dp"
+    android:src="@drawable/pizza"
+    android:scaleType="fitCenter"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="340dp"
+            android:layout_height="35dp"
+            android:textSize="30sp"
+            android:text="@string/prs_btn"
+            android:textColor="@color/white" />
+    <VideoView
+        android:layout_width="350dp"
+        android:layout_height="150dp"
+        android:layout_marginStart="30dp"
+
+        android:id="@+id/Video_view"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="@string/Nxt_Page"
+        android:gravity="center"
+        android:layout_margin="20dp"
+        android:id="@+id/NextPage"/>
+
+    </LinearLayout>
+
+</LinearLayout>
+
+
+
+
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test1</string>
+    <string name="open_btn">ברוך הבא לפיצה יוסף</string>
+    <string name="Nxt_Page">להזמנה לחץ כאן</string>
+    <string name="menu_btn">תפריט</string>
+    <string name="pizza_op">גודל הפיצה</string>
+    <string name="drink_op">אופציות שתייה</string>
+    <string name="btn_p">אננס</string>
+    <string name="btn_big">גדולה</string>
+    <string name="btn_fam">" משפחתית"</string>
+    <string name="btn_per">" אישית"</string>
+    <string name="btn_inv">ההמזנה שלך היא</string>
+    <string name="btn_olive">זיתים</string>
+    <string name="btn_onion">בצל</string>
+    <string name="btn_mush">פטריות</string>
+    <string name="rat_btn">"דרגו אותנו "</string>
+    <string name="btn_top">תוספות</string>
+    <string name="prs_btn">לחץ למטה כדי לראות וידיאו</string>
+    <string name="nextB">עמוד הבא</string>
+</resources>
